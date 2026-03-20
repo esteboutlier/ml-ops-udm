@@ -1,1 +1,2 @@
 print("Probando los commits en GitHub")
+print("Hola, este es un nuevo commit para probar el funcionamiento de GitHub.")
